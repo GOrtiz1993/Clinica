@@ -8,6 +8,7 @@
 
 ![](imagenes/1.jpg)
           ![](imagenes/staff.png)  ![](imagenes/baby-hope.png) ![](imagenes/hospitalizacion.png)  ![](imagenes/salud.png)
+                                                  ![](imagenes/servicio_7.png)
 
 
 [Enlace al Sitio](http://fundamento.hol.es)
