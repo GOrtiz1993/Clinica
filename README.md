@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Diseño web sobre una Clinica__
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Diseño web sobre una Clinica__
 #### Se Utilizó
 + HTML5
 + CSS3
@@ -6,10 +6,10 @@
 + Javascript
 + JQuery 
 
+[Enlace al Sitio](http://fundamento.hol.es)
+
 ![](imagenes/1.jpg)
 # &nbsp;&nbsp;&nbsp;&nbsp;![](imagenes/staff.png)  ![](imagenes/baby-hope.png) ![](imagenes/hospitalizacion.png)  ![](imagenes/salud.png)
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](imagenes/servicio_7.png)
-
-
-[Enlace al Sitio](http://fundamento.hol.es)
+## La Clinica;&nbsp;&nbsp;&nbsp;&nbspEspecialidades;&nbsp;&nbsp;&nbsp;&nbspServicios;&nbsp;&nbsp;&nbsp;&nbspContactenos 
 
