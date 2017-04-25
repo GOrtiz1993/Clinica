@@ -1,2 +1,5 @@
-# Clinica
-![](imagenes/1.jpg)![](imagenes/1.jpg)
+Día | Ingresos | Egresos
+--- | --- | ---
+1 | $25000 | $50
+2 | $200 | $320
+3 | $5 | $50000
