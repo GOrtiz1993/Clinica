@@ -1,2 +1,2 @@
 # Clinica
-Pagina web diseñada con bootstrap sobre una Clinica 
+![](imagenes/1.jpg)
