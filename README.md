@@ -1,4 +1,4 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Diseño web sobre una Clinica__
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;__Diseño web sobre una Clinica__
 #### Se Utilizó
 + HTML5
 + CSS3
@@ -11,5 +11,5 @@
 ![](imagenes/1.jpg)
 # &nbsp;&nbsp;&nbsp;&nbsp;![](imagenes/staff.png)  ![](imagenes/baby-hope.png) ![](imagenes/hospitalizacion.png)  ![](imagenes/salud.png)
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](imagenes/servicio_7.png)
-## La Clinica;&nbsp;&nbsp;&nbsp;&nbspEspecialidades;&nbsp;&nbsp;&nbsp;&nbspServicios;&nbsp;&nbsp;&nbsp;&nbspContactenos 
+## La Clinica;&nbsp;&nbsp;&nbsp;&nbsp;Especialidades;&nbsp;&nbsp;&nbsp;&nbsp;Servicios;&nbsp;&nbsp;&nbsp;&nbsp;Contactenos 
 
